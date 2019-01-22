@@ -17,8 +17,8 @@ function draw() {
   //triangle(10,5, 410, 5, 210, 400)
   //triangle(100,5, 410, 5, 260, 300)
 
-  draw_triangles(350,1.2)
-  draw_triangles(10,1)
+  //draw_triangles(350,1.2)
+  //draw_triangles(10,1)
 
 
 }
