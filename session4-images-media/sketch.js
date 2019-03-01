@@ -5,6 +5,7 @@ var draw_position_x = 0;
 
 function preload(){
   img = loadImage("mountain.jpeg")
+  console.log(img)
 }
 
 function setup(){
